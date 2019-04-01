@@ -11,8 +11,10 @@ The goal of this repository is to provide a
 files for common and uncommon devices.
 
 At this point we have very few devices, so an ontology of devices is not
-really necessary or desireable.  Once we have a few hundred definitions, then
-we will want to sort according to some to-be-established categories.
+really necessary or desireable.    Put things wherever you like for now.
+That is, make it up, and don't worry too much. Once we have a few hundred
+definitions, then we will want to sort  according to some to be determined
+categories.
 
 Please establish a new directory for each device, and name the directory for
 the device's common name.  If there are multiple hardware/firmware versions
