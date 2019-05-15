@@ -31,4 +31,4 @@ observed, if known.  A photo of the device would be appreciated, as would
 a photo of any model/firmware stick on the device.  You are encouraged to
 redact any serial number information in the picture using a photo editor.
 
-
+Some more examples are available at: https://iotanalytics.unsw.edu.au/mudprofiles
